@@ -1,0 +1,41 @@
+.article-content {
+  font-family: 'SF Pro', sans-serif;
+  font-size: 2.4rem;
+  line-height: 150%;
+  margin-top: 20px;
+}
+
+.article-content p {
+  margin-bottom: 20px;
+}
+
+.article-content ol {
+  margin-bottom: 20px;
+  padding-left: 20px;
+}
+
+.article-content li {
+  margin-bottom: 10px;
+}
+
+.article-content strong {
+  font-weight: bold;
+}
+
+/* Customization of Slider Navigations*/
+
+.ft-slick__dots--custom {
+  height: 8px;
+  width: 8px;
+  background-color: #f0f0f0;
+  border-radius: 4px;
+  position: relative;
+}
+
+.slick-dots .slick-active .ft-slick__dots--custom {
+  width: 14px;
+  height: 8px;
+  top: 0;
+  overflow: hidden;
+  background: #0d1a4b;
+}

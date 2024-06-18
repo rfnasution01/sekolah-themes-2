@@ -1,0 +1,23 @@
+.article-content {
+  font-family: 'SF Pro', sans-serif;
+  font-size: 2.4rem;
+  line-height: 150%;
+  margin-top: 20px;
+}
+
+.article-content p {
+  margin-bottom: 20px;
+}
+
+.article-content ol {
+  margin-bottom: 20px;
+  padding-left: 20px;
+}
+
+.article-content li {
+  margin-bottom: 10px;
+}
+
+.article-content strong {
+  font-weight: bold;
+}
